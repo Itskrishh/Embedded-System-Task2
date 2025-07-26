@@ -20,6 +20,6 @@ The Home Automation with Bluetooth project is a beginner-friendly yet practical 
 
 <img width="528" height="307" alt="Image" src="https://github.com/user-attachments/assets/e17ac8b1-11f6-45d2-ac4c-b6aa8402cd42" />
 
-*output*:
+*Output*:
 
-<img width="825" height="368" alt="Image" src="https://github.com/user-attachments/assets/ac6384a3-b325-4dab-ac80-72bc4c7108b1" /># Embedded-System-Task2
+<img width="825" height="368" alt="Image" src="https://github.com/user-attachments/assets/ac6384a3-b325-4dab-ac80-72bc4c7108b1" />
